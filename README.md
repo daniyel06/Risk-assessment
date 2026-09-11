@@ -158,7 +158,7 @@ Logging helps investigate suspicious or unauthorized access to the bucket.
 
 **Screenshot:** Server Access Logging
 
-<img width="1919" height="963" alt="639821920-95d97a74-4a03-4d38-ac4a-76fc08ddd4f2" src="https://github.com/user-attachments/assets/270db388-3f14-436c-8fee-33e55eeaf67d" />
+<img width="1919" height="924" alt="639821920-95d97a74-4a03-4d38-ac4a-76fc08ddd4f2" src="https://github.com/user-attachments/assets/c4b360bd-426e-4d4f-be76-972b03e03ac9" />
 
 
 # PART B — AWS RISK ASSESSMENT
