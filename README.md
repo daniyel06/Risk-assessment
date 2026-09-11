@@ -51,7 +51,7 @@ To identify storage assets in **AWS S3**, identify possible vulnerabilities and 
 
 **Screenshot:** S3 Bucket Overview
 
-<img width="1919" height="1004" alt="image" src="https://github.com/user-attachments/assets/8bfdd9f9-b891-464a-83ca-da9f5534db34" />
+<img width="1919" height="969" alt="639820923-8bfdd9f9-b891-464a-83ca-da9f5534db34" src="https://github.com/user-attachments/assets/2d4501e4-680c-4a05-acd1-c19214d44bdb" />
 
 ## Step 3: Check Block Public Access
 
@@ -67,7 +67,7 @@ To identify storage assets in **AWS S3**, identify possible vulnerabilities and 
 
 **Screenshot:** Block Public Access Settings
 
-<img width="1919" height="993" alt="image" src="https://github.com/user-attachments/assets/126c2fa0-0cad-4ab9-9311-bca9098535bc" />
+<img width="1919" height="964" alt="639821309-126c2fa0-0cad-4ab9-9311-bca9098535bc" src="https://github.com/user-attachments/assets/e51f5a2e-3a18-4715-8d91-2ee1d00c5528" />
 
 
 ## Step 4: Check Bucket Versioning
@@ -85,7 +85,7 @@ Versioning helps recover previous versions of objects after accidental deletion 
 
 **Screenshot:** Bucket Versioning
 
-<img width="1919" height="1004" alt="image" src="https://github.com/user-attachments/assets/1bb3c6d0-9f00-43d3-8874-69adac3fa8ba" />
+<img width="1919" height="966" alt="639821398-1bb3c6d0-9f00-43d3-8874-69adac3fa8ba" src="https://github.com/user-attachments/assets/9c858c68-6910-44d3-b58d-27bbb5a95625" />
 
 
 ## Step 5: Check Default Encryption
@@ -106,7 +106,7 @@ Encryption protects stored data from unauthorized disclosure.
 
 **Screenshot:** Default Encryption
 
-<img width="1919" height="994" alt="image" src="https://github.com/user-attachments/assets/169e8a16-6614-4ed0-8595-15a6c50ee546" />
+<img width="1919" height="965" alt="639821467-169e8a16-6614-4ed0-8595-15a6c50ee546" src="https://github.com/user-attachments/assets/15bf5e5b-c74d-4a3d-abed-a3d09b27b62a" />
 
 
 ## Step 6: Check Bucket Policy
@@ -124,7 +124,7 @@ Record:
 
 **Screenshot:** Bucket Policy Section
 
-<img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/ec2917da-adf9-4ac7-8435-03d9d2bd3efb" />
+<img width="1919" height="961" alt="639821515-ec2917da-adf9-4ac7-8435-03d9d2bd3efb" src="https://github.com/user-attachments/assets/661fd1ae-03a1-4e08-97a3-684039a06a9d" />
 
 ## Step 7: Check Object Ownership and ACL
 
@@ -143,7 +143,6 @@ This means:
 
 **Screenshot:** Object Ownership
 
-<img width="1919" height="999" alt="image" src="https://github.com/user-attachments/assets/a1b957e0-4e47-4d08-9daa-8519e6d78199" />
 
 ## Step 8: Check Server Access Logging
 
@@ -160,7 +159,7 @@ Logging helps investigate suspicious or unauthorized access to the bucket.
 
 **Screenshot:** Server Access Logging
 
-<img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/95d97a74-4a03-4d38-ac4a-76fc08ddd4f2" />
+<img width="1919" height="963" alt="639821920-95d97a74-4a03-4d38-ac4a-76fc08ddd4f2" src="https://github.com/user-attachments/assets/270db388-3f14-436c-8fee-33e55eeaf67d" />
 
 
 # PART B — AWS RISK ASSESSMENT
